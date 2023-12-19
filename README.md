@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I am a PhD candidate at the School of Mechanical Engineering at Purdue University. 
+- I conduct my research at the Resilient Extra-Terrestrial Habitats Institute (RETHi), where I worry about designing and implementing system-level health management for SmartHab analogs.
 <!--
 **murakrishn/murakrishn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
